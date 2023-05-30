@@ -17,7 +17,7 @@ List of technologies used within the project:
 ***
 To install please follow the below steps: 
 ```
-$ git clone https://github.com/nextore28/OpenMPvsMPI.git
+$ git clone git@github.com:Elkin77/OpenMPvsMPI.git
 $ cd ../Files
 Open the "Anexo_Evaluacion_Rendimiento.pdf" file to check the next steps.
 ```
